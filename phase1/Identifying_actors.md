@@ -8,7 +8,9 @@ Secondary actors: **The system**
 | **Staff** | - register court by adding information | 
 |       | - update the status of the court |
 |       | - update users information |
+| | |
 | **New User** | - register by entering their name, address, credit card or bank account |
+| | |
 | **User**  | - able to select hoe they want to pay. |
 |       | - able to login |
 |       | - able to see available courts in the app|
@@ -20,6 +22,7 @@ Secondary actors: **The system**
 |       | - able to subscribe for unavailable courts to get notified when the court will be available |
 |       | - able to rate and comment after using the court |
 |       | - able to see the comment and average rating of the court |
+| | |
 | **The system** | - able to handle at least 1000 concurrent users | 
 |       | - encrypt sensitive information |
 |       | - support the Thai language |
@@ -30,6 +33,3 @@ Secondary actors: **The system**
 |       | - have a simple user interface |
 |       | - have good user experience |
 |       | - be running on mobile phones |
-
-
-
