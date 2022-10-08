@@ -7,6 +7,7 @@
 5. [Identifying actors](phase1/Identifying_actors.md)
 6. [Use case Diagram](phase1/use_case_diagram.md)
 7. [Use case narrative](phase1/use_case_narrative.md)
+8. [Video summary](https://drive.google.com/file/d/10mBdxVm-La595cIGSMTwqqDQExWk6BGN/view)
 
 ## Our team
 - 6288202	Yu	Wang
