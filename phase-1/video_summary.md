@@ -1,3 +1,3 @@
 # Video summary
 
-<iframe src="https://drive.google.com/file/d/10mBdxVm-La595cIGSMTwqqDQExWk6BGN/preview" width="640" height="480" allow="autoplay"></iframe>
+[![Video summary](https://docs.google.com/u/0/vt?id=10mBdxVm-La595cIGSMTwqqDQExWk6BGN)](https://drive.google.com/file/d/10mBdxVm-La595cIGSMTwqqDQExWk6BGN)
