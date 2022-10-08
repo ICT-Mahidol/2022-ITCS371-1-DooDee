@@ -1,3 +1,3 @@
 # Video summary
 
-[![Video summary](https://docs.google.com/u/0/vt?id=10mBdxVm-La595cIGSMTwqqDQExWk6BGN)](https://drive.google.com/file/d/10mBdxVm-La595cIGSMTwqqDQExWk6BGN)
+[![Video summary](assets/video-output-21FA706F-F59E-4879-B64B-C58529D8331C.jpg)](https://drive.google.com/file/d/10mBdxVm-La595cIGSMTwqqDQExWk6BGN)
