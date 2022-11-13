@@ -1,9 +1,9 @@
-# Use Case Diagram (UDC)
+# Use Case Diagram (UCD)
 
-## High level UDC
-![High level UDC](assets/highlevel%20UDC.png)
+## High level UCD
+![High level UCD](assets/highlevel%20UCD.png)
 [view in pdf](assets/High%20Level%20UCD.pdf)
 
-## Detailed UDC
-![Detailedd UDC](assets/detailed%20udc.png)
+## Detailed UCD
+![Detailedd UCD](assets/detailed%20UCD.png)
 [view in pdf](assets/Detailed%20UCD.pdf)
